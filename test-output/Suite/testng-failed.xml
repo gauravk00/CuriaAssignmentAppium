@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.curia.testUtils.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="SplashPageTest(failed)">
+    <classes>
+      <class name="com.innoplexus.curia.curiaFramework.SplashPagesValidation">
+        <methods>
+          <include name="TestSplash5"/>
+          <include name="TestSplash2"/>
+          <include name="TestSplash1"/>
+          <include name="TestSplash4"/>
+          <include name="TestSplash3"/>
+          <include name="AppiumConfig"/>
+        </methods>
+      </class> <!-- com.innoplexus.curia.curiaFramework.SplashPagesValidation -->
+    </classes>
+  </test> <!-- SplashPageTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

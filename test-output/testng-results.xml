@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29067" started-at="2022-10-30T19:55:59Z" finished-at="2022-10-30T19:56:28Z">
+    <groups>
+    </groups>
+    <test name="SplashPageTest" duration-ms="29067" started-at="2022-10-30T19:55:59Z" finished-at="2022-10-30T19:56:28Z">
+      <class name="com.innoplexus.curia.curiaFramework.SplashPagesValidation">
+        <test-method status="PASS" signature="AppiumConfig()[pri:0, instance:com.innoplexus.curia.curiaFramework.SplashPagesValidation@14555e0a]" name="AppiumConfig" is-config="true" duration-ms="12325" started-at="2022-10-30T19:55:59Z" finished-at="2022-10-30T19:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumConfig -->
+        <test-method status="PASS" signature="TestSplash1()[pri:0, instance:com.innoplexus.curia.curiaFramework.SplashPagesValidation@14555e0a]" name="TestSplash1" duration-ms="3036" started-at="2022-10-30T19:56:11Z" finished-at="2022-10-30T19:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSplash1 -->
+        <test-method status="PASS" signature="TestSplash2()[pri:0, instance:com.innoplexus.curia.curiaFramework.SplashPagesValidation@14555e0a]" name="TestSplash2" duration-ms="1749" started-at="2022-10-30T19:56:14Z" finished-at="2022-10-30T19:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSplash2 -->
+        <test-method status="PASS" signature="TestSplash3()[pri:0, instance:com.innoplexus.curia.curiaFramework.SplashPagesValidation@14555e0a]" name="TestSplash3" duration-ms="2274" started-at="2022-10-30T19:56:16Z" finished-at="2022-10-30T19:56:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSplash3 -->
+        <test-method status="PASS" signature="TestSplash4()[pri:0, instance:com.innoplexus.curia.curiaFramework.SplashPagesValidation@14555e0a]" name="TestSplash4" duration-ms="2009" started-at="2022-10-30T19:56:18Z" finished-at="2022-10-30T19:56:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSplash4 -->
+        <test-method status="PASS" signature="TestSplash5()[pri:0, instance:com.innoplexus.curia.curiaFramework.SplashPagesValidation@14555e0a]" name="TestSplash5" duration-ms="7612" started-at="2022-10-30T19:56:20Z" finished-at="2022-10-30T19:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSplash5 -->
+      </class> <!-- com.innoplexus.curia.curiaFramework.SplashPagesValidation -->
+    </test> <!-- SplashPageTest -->
+  </suite> <!-- Suite -->
+</testng-results>
